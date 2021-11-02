@@ -1,1 +1,2 @@
 asa1997/bes-playbook/besman-cve-rce-drupal-plabook,0.0.1
+asa1997/bes-playbook/besman-cve-rce-wordpress-playbook,0.0.1
